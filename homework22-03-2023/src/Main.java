@@ -80,7 +80,7 @@ Employee{id=3, name='Lili', salary=2134, age=23}
 Employee{id=5, name='Brock', salary=3211, age=23}
 Employee{id=88, name='Albert', salary=3900, age=23}
 
-Sorting by Name if salary exactly:
+Sorting by Name if age is exactly:
 Employee{id=1, name='Adam', salary=1500, age=23}
 Employee{id=88, name='Albert', salary=3900, age=23}
 Employee{id=5, name='Brock', salary=3211, age=23}
